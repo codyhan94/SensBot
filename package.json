@@ -1,0 +1,11 @@
+{
+    "name": "sens-bot",
+    "version": "1.0.0",
+    "description": "Mouse sensitivity conversion bot",
+    "main": "bot.js",
+    "author": "cody",
+    "dependencies": {
+        "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+        "winston": "^3.1.0"
+    }
+}
